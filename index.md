@@ -2,28 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Experience 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Software Developer at United Health Group]
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Publications
+
+- [Demand Response Management in Microgrids using IoT & ML, IEEE]([http://example.com/](https://ieeexplore.ieee.org/abstract/document/9432120))
+- [IoT-based Demand Response Management for Microgrids, IEEE]([http://example.com/](https://ieeexplore.ieee.org/abstract/document/9383763))
+- [IoT-based Demand Side Management for Microgrids using Arduino and MATLAB, IEEE]([http://example.com/](https://ieeexplore.ieee.org/abstract/document/9215314))
+
+---
+### Projects
+
+[Forecasting Agro-Food CO₂ Emissions Under Policy Scenarios]([/pdf/sample_presentation.pdf](https://github.com/Shruthi-CK/AML_Project/tree/main))
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[LLM Recommender System]([http://example.com/](https://github.com/Shruthi-CK/LLM-Recommender-System))
 
 ---
 
