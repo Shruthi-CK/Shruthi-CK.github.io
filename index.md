@@ -9,18 +9,18 @@
 ---
 ### Publications
 
-- [Demand Response Management in Microgrids using IoT & ML, IEEE]([http://example.com/](https://ieeexplore.ieee.org/abstract/document/9432120))
-- [IoT-based Demand Response Management for Microgrids, IEEE]([http://example.com/](https://ieeexplore.ieee.org/abstract/document/9383763))
-- [IoT-based Demand Side Management for Microgrids using Arduino and MATLAB, IEEE]([http://example.com/](https://ieeexplore.ieee.org/abstract/document/9215314))
+- [Demand Response Management in Microgrids using IoT & ML, IEEE](https://ieeexplore.ieee.org/abstract/document/9432120)
+- [IoT-based Demand Response Management for Microgrids, IEEE](https://ieeexplore.ieee.org/abstract/document/9383763)
+- [IoT-based Demand Side Management for Microgrids using Arduino and MATLAB, IEEE](https://ieeexplore.ieee.org/abstract/document/9215314)
 
 ---
 ### Projects
 
-[Forecasting Agro-Food CO₂ Emissions Under Policy Scenarios]([/pdf/sample_presentation.pdf](https://github.com/Shruthi-CK/AML_Project/tree/main))
+[Forecasting Agro-Food CO₂ Emissions Under Policy Scenarios](https://github.com/Shruthi-CK/AML_Project/tree/main)
 
 ---
 
-[LLM Recommender System]([http://example.com/](https://github.com/Shruthi-CK/LLM-Recommender-System))
+[LLM Recommender System](https://github.com/Shruthi-CK/LLM-Recommender-System)
 
 ---
 
